@@ -11,6 +11,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Host used](#host-used)
 - [Author](#author)
 
 ## Overview
@@ -50,6 +51,10 @@ Users should be able to:
 - CSS custom properties
 - CSS Grid
 - Mobile-first workflow
+
+### Host used
+
+This project is hosted on [Vercel](https://vercel.com/). I chose Vercel for its seamless deployment and hosting capabilities.
 
 ## Author
 
